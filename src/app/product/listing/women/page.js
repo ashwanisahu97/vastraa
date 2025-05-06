@@ -1,9 +1,19 @@
 'use client'
 import CommonListing from "@/components/CommonListing";
 import { productByCategory } from "@/services/product";
+import { useEffect, useState } from "react";
 
-export default async function WomenAllProducts() {
-  const getAllProducts = await productByCategory("women");
+export default  function WomenAllProducts() {
+  const [getAllProducts,setGetAllProducts] = useState({})
+  const handleGetAllProducts = async()=>{
+    let res = await productByCategory("women");
+    setGetAllProducts(res);
+  }
+  useEffect(()=>{
+    handleGetAllProducts();
+  },[])
+ 
+  console.log("getAllProducts",getAllProducts);
 
-  return <CommonListing data={getAllProducts && getAllProducts.data} />;
+  return <CommonListing data={getAllProducts && getAllProducts?.data} />;
 }
