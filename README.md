@@ -31,16 +31,16 @@ vastraa is a cutting-edge e-commerce platform built with Next.js, delivering a h
       
 ### Sample 
 Landing Page 
-<img width="959" alt="image" src="https://github.com/pushpraj15295/Fresh-fashion/assets/101568029/4501d2a1-2ce7-4ac9-a571-2d7e4b7094a4">
+<img width="959" alt="image" src="https://raw.githubusercontent.com/ashwanisahu97/educity/refs/heads/main/LandingPage.png">
 
 Login & Register Page 
-<img width="957" alt="image" src="https://github.com/pushpraj15295/Fresh-fashion/assets/101568029/be5ed676-639e-4305-9861-044aad064fc7">
+<img width="957" alt="image" src="https://raw.githubusercontent.com/ashwanisahu97/educity/refs/heads/main/LoginPage.png">
 
 All Product Pages 
-![image](https://github.com/pushpraj15295/Fresh-fashion/assets/101568029/a158c405-a99c-4b56-9663-dcb8cee9bcc0)
+![image](https://raw.githubusercontent.com/ashwanisahu97/educity/refs/heads/main/allProductPage.png)
 
 Cart page 
-![image](https://github.com/pushpraj15295/Fresh-fashion/assets/101568029/e2e05954-b4cb-4357-ad72-a2576dfdd050)
+![image](https://raw.githubusercontent.com/ashwanisahu97/educity/refs/heads/main/cartPage.png)
 
 
 ## Setup Instructions
