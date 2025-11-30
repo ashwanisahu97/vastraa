@@ -31,7 +31,7 @@ vastraa is a cutting-edge e-commerce platform built with Next.js, delivering a h
       
 ### Sample 
 Landing Page 
-<img width="959" alt="image" src="https://raw.githubusercontent.com/ashwanisahu97/educity/refs/heads/main/LandingPage.png">
+<img width="959" alt="image" src="file:///C:/Users/adv/Pictures/Screenshots/homepage.png">
 
 Login & Register Page 
 <img width="957" alt="image" src="https://raw.githubusercontent.com/ashwanisahu97/educity/refs/heads/main/LoginPage.png">
