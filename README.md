@@ -34,13 +34,13 @@ Landing Page
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/fc2fb250-e24f-4be1-bbc9-c6f26ac6a888">
 
 Login & Register Page 
-<img width="957" alt="image" src="https://raw.githubusercontent.com/ashwanisahu97/educity/refs/heads/main/LoginPage.png">
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/e8f60e28-6f8d-47ec-bb62-629dbd1dd76f">
 
 All Product Pages 
-![image](https://raw.githubusercontent.com/ashwanisahu97/educity/refs/heads/main/allProductPage.png)
+![image](https://github.com/user-attachments/assets/146d02cc-f59e-455f-ab0d-78aab4738d37)
 
 Cart page 
-![image](https://raw.githubusercontent.com/ashwanisahu97/educity/refs/heads/main/cartPage.png)
+![image](https://github.com/user-attachments/assets/851450be-cafc-48ee-b3fb-b3a0ecea7ce8)
 
 
 ## Setup Instructions
